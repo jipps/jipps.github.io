@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jipps | Personal blog</title>
-    <link>https://jipps.github.io/</link>
-    <description>Recent content on Jipps | Personal blog</description>
+    <title>Blogs on Jipps | Personal blog</title>
+    <link>https://jipps.github.io/blog/</link>
+    <description>Recent content in Blogs on Jipps | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Wed, 01 Jan 2020 09:52:24 +0900</lastBuildDate>
     
-	<atom:link href="https://jipps.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jipps.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
