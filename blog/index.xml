@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Hugo로 블로그 만들기</title>
+      <link>https://jipps.github.io/blog/hugo-post-1/</link>
+      <pubDate>Wed, 01 Jan 2020 13:57:21 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/blog/hugo-post-1/</guid>
+      <description>참고:
+ Hugo Quick Start Hugo Hosting &amp;amp; Deploymeny - Host on GitHub   1.</description>
+    </item>
+    
+    <item>
       <title>Test1</title>
       <link>https://jipps.github.io/blog/test1/</link>
       <pubDate>Wed, 01 Jan 2020 09:52:24 +0900</pubDate>
