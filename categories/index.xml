@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Jipps | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 13:57:21 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 20:46:11 +0900</lastBuildDate>
     
 	<atom:link href="https://jipps.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git</title>
+      <link>https://jipps.github.io/categories/git/</link>
+      <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/categories/git/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog</title>

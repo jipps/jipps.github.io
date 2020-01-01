@@ -129,17 +129,17 @@
 <li><a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">Hugo Hosting &amp; Deploymeny - Host on GitHub</a></li>
 </ol>
 </blockquote>
-<h1 id="1hugo-quick-start">1.Hugo Quick Start</h1>
-<h3 id="1-hugo-">1) Hugo 설치하기</h3>
+<h3 id="1hugo-quick-start">1.Hugo Quick Start</h3>
+<h4 id="1-hugo-">1) Hugo 설치하기</h4>
 <blockquote>
 <p>MacOS 기반 HomeBrew 이용 설치 가이드<br>
 타 OS는 여기를 참고하세요. <a href="https://gohugo.io/getting-started/installing">https://gohugo.io/getting-started/installing</a></p>
 </blockquote>
 <pre><code>brew install hugo
 hugo version
-</code></pre><h3 id="2---">2) 사이트 신규로 만들기</h3>
+</code></pre><h4 id="2---">2) 사이트 신규로 만들기</h4>
 <pre><code>hugo new site blog
-</code></pre><h3 id="3--">3) 테마 추가하기</h3>
+</code></pre><h4 id="3--">3) 테마 추가하기</h4>
 <blockquote>
 <p>추가할 테마: liva-hugo<br>
 Hugo 테마는 여기를 참고하세요.  <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
@@ -148,16 +148,16 @@ Hugo 테마는 여기를 참고하세요.  <a href="https://themes.gohugo.io/">h
 git init
 git submodule add https://github.com/themefisher/liva-hugo.git themes/liva-hugo 
 </code></pre><p>themes/liva-hugo/exampleSite밑에 있는 config.toml참고하여 blog밑에 있는 config.toml을 수정한다.</p>
-<h3 id="4-content-">4) Content 추가하기</h3>
+<h4 id="4-content-">4) Content 추가하기</h4>
 <p>Content 파일은 수동으로 추가하거나 hugo 명령어를 통해 추가가능하다.<br>
 수동으로 파일생성시 <code>content/&lt;CATEGORY&gt;/&lt;FILE&gt;.&lt;FORMAT&gt;</code> 형태로 생성하고<br>
 hugo 명령어로 생성시는 아래와 같이생성한다.</p>
 <pre><code>hugo new posts/post-1.md
-</code></pre><h3 id="5-hugo-server-">5) Hugo Server 시작하기</h3>
+</code></pre><h4 id="5-hugo-server-">5) Hugo Server 시작하기</h4>
 <p>Content 파일은 수동으로 추가하거나 hugo 명령어를 통해 추가가능하다.<br>
 수동으로 파일생성시 <code>content/&lt;CATEGORY&gt;/&lt;FILE&gt;.&lt;FORMAT&gt;</code> 형태로 생성하고<br>
 hugo 명령어로 생성시는 아래와 같이생성한다.</p>
-<h3 id="6-hugo-deploy">6) Hugo Deploy</h3>
+<h4 id="6-hugo-deploy">6) Hugo Deploy</h4>
 
         </div>
 
@@ -207,6 +207,9 @@ hugo 명령어로 생성시는 아래와 같이생성한다.</p>
           </li>
           <li class="mb-3"><a class="text-dark"
               href="/categories/blog">Blog</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/git">Git</a>
           </li>
           <li class="mb-3"><a class="text-dark"
               href="/categories/go-language">Go language</a>

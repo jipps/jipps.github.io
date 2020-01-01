@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Git submodule 사용하기</title>
+      <link>https://jipps.github.io/blog/git-post-1/</link>
+      <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/blog/git-post-1/</guid>
+      <description>1.Git Submodule 사용하기 1) 서브모듈 추가하기 main-mobule: git-main
+sub-module: git-sub</description>
+    </item>
+    
+    <item>
       <title>Hugo로 블로그 만들기</title>
       <link>https://jipps.github.io/blog/hugo-post-1/</link>
       <pubDate>Wed, 01 Jan 2020 13:57:21 +0900</pubDate>
