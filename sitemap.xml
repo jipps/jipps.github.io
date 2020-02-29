@@ -4,31 +4,61 @@
   
   <url>
     <loc>https://jipps.github.io/categories/</loc>
-    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jipps.github.io/tags/git/</loc>
-    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jipps.github.io/categories/git/</loc>
-    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jipps.github.io/blog/git-post-1/</loc>
-    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
+    <lastmod>2020-02-29T12:05:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jipps.github.io/</loc>
-    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
+    <lastmod>2020-02-29T12:05:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/categories/swift/</loc>
+    <lastmod>2020-02-29T12:05:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/tags/swift/</loc>
+    <lastmod>2020-02-29T12:05:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jipps.github.io/tags/</loc>
+    <lastmod>2020-02-29T12:05:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/blog/swift/swift-1/</loc>
+    <lastmod>2020-02-29T12:05:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/categories/git/</loc>
+    <lastmod>2020-01-04T10:31:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/tags/git/</loc>
+    <lastmod>2020-01-04T10:31:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/blog/git/git-post-2/</loc>
+    <lastmod>2020-01-04T10:31:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/blog/git/git-post-1/</loc>
+    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/tags/swiftui/</loc>
+    <lastmod>2020-01-01T20:46:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jipps.github.io/blog/swiftui/mastering-swiftui-1/</loc>
     <lastmod>2020-01-01T20:46:11+09:00</lastmod>
   </url>
   
@@ -43,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://jipps.github.io/blog/hugo-post-1/</loc>
+    <loc>https://jipps.github.io/blog/hugo/hugo-post-1/</loc>
     <lastmod>2020-01-01T13:57:21+09:00</lastmod>
   </url>
   
@@ -158,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://jipps.github.io/tags/html/</loc>
+    <loc>https://jipps.github.io/categories/html/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jipps.github.io/categories/html/</loc>
+    <loc>https://jipps.github.io/tags/html/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
@@ -188,12 +218,12 @@
   </url>
   
   <url>
-    <loc>https://jipps.github.io/categories/python/</loc>
+    <loc>https://jipps.github.io/tags/python/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jipps.github.io/tags/python/</loc>
+    <loc>https://jipps.github.io/categories/python/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   

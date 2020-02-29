@@ -6,17 +6,26 @@
     <description>Recent content in git on Jipps | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 20:46:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2020 10:31:11 +0900</lastBuildDate>
     
 	<atom:link href="https://jipps.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Git 기본 명령어</title>
+      <link>https://jipps.github.io/blog/git/git-post-2/</link>
+      <pubDate>Sat, 04 Jan 2020 10:31:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/blog/git/git-post-2/</guid>
+      <description>1.Git 이용 초간단 과정 1) Remote repository 생성  Github 또는 Bitbucket에서 repository 생성</description>
+    </item>
+    
+    <item>
       <title>Git submodule 사용하기</title>
-      <link>https://jipps.github.io/blog/git-post-1/</link>
+      <link>https://jipps.github.io/blog/git/git-post-1/</link>
       <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
       
-      <guid>https://jipps.github.io/blog/git-post-1/</guid>
+      <guid>https://jipps.github.io/blog/git/git-post-1/</guid>
       <description>1.Git Submodule 사용하기 1) 서브모듈 추가하기 main-mobule: git-main
 sub-module: git-sub</description>
     </item>

@@ -6,27 +6,55 @@
     <description>Recent content on Jipps | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 20:46:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 12:05:11 +0900</lastBuildDate>
     
 	<atom:link href="https://jipps.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>URLSession and URLSessionDataTask</title>
+      <link>https://jipps.github.io/blog/swift/swift-1/</link>
+      <pubDate>Sat, 29 Feb 2020 12:05:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/blog/swift/swift-1/</guid>
+      <description>1.URLSession 지정된 URL로 접속하여 데이타를 다운로드하거나 업로드하기 위해 이용한다.
+# URLSession 만들기 URLSession.</description>
+    </item>
+    
+    <item>
+      <title>Git 기본 명령어</title>
+      <link>https://jipps.github.io/blog/git/git-post-2/</link>
+      <pubDate>Sat, 04 Jan 2020 10:31:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/blog/git/git-post-2/</guid>
+      <description>1.Git 이용 초간단 과정 1) Remote repository 생성  Github 또는 Bitbucket에서 repository 생성</description>
+    </item>
+    
+    <item>
       <title>Git submodule 사용하기</title>
-      <link>https://jipps.github.io/blog/git-post-1/</link>
+      <link>https://jipps.github.io/blog/git/git-post-1/</link>
       <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
       
-      <guid>https://jipps.github.io/blog/git-post-1/</guid>
+      <guid>https://jipps.github.io/blog/git/git-post-1/</guid>
       <description>1.Git Submodule 사용하기 1) 서브모듈 추가하기 main-mobule: git-main
 sub-module: git-sub</description>
     </item>
     
     <item>
+      <title>SwiftUI 시작하기</title>
+      <link>https://jipps.github.io/blog/swiftui/mastering-swiftui-1/</link>
+      <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/blog/swiftui/mastering-swiftui-1/</guid>
+      <description>1.Getting Started with SwiftUI 1) Create New Project  Single View App</description>
+    </item>
+    
+    <item>
       <title>Hugo로 블로그 만들기</title>
-      <link>https://jipps.github.io/blog/hugo-post-1/</link>
+      <link>https://jipps.github.io/blog/hugo/hugo-post-1/</link>
       <pubDate>Wed, 01 Jan 2020 13:57:21 +0900</pubDate>
       
-      <guid>https://jipps.github.io/blog/hugo-post-1/</guid>
+      <guid>https://jipps.github.io/blog/hugo/hugo-post-1/</guid>
       <description>참고:
  Hugo Quick Start Hugo Hosting &amp;amp; Deploymeny - Host on GitHub   1.</description>
     </item>

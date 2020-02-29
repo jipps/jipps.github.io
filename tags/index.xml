@@ -6,17 +6,35 @@
     <description>Recent content in Tags on Jipps | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 20:46:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 12:05:11 +0900</lastBuildDate>
     
 	<atom:link href="https://jipps.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>swift</title>
+      <link>https://jipps.github.io/tags/swift/</link>
+      <pubDate>Sat, 29 Feb 2020 12:05:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>git</title>
       <link>https://jipps.github.io/tags/git/</link>
-      <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
+      <pubDate>Sat, 04 Jan 2020 10:31:11 +0900</pubDate>
       
       <guid>https://jipps.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://jipps.github.io/tags/swiftui/</link>
+      <pubDate>Wed, 01 Jan 2020 20:46:11 +0900</pubDate>
+      
+      <guid>https://jipps.github.io/tags/swiftui/</guid>
       <description></description>
     </item>
     
