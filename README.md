@@ -1,2 +1,2 @@
 # jipps.github.io
-jipps blog
+jipps blog - 수정하기 
